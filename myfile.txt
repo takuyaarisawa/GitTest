@@ -1,3 +1,2 @@
 サルでもわかるGitコマンド
-add 変更をインデックスに登録する
-Branch2の変更
+Branch2の変更Branch3の変更
